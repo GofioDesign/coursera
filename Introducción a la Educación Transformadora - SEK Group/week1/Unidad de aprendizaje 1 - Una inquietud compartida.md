@@ -1,1 +1,3 @@
-[![Una inquietud compartida]({../assets/w1-01.png})]({../assets/w1-01.mp4} "Link Title")
+# Una inquietud compartida
+
+[![Una inquietud compartida](https://github.com/juanalbglz/coursera/assets/w1-v1-01.png)](https://github.com/juanalbglz/coursera/assets/w1-v1-01.mp4 "Una inquietud compartida")
